@@ -8,5 +8,7 @@ Project Steps  Covered:
 3. Tabs & App Manager: Developed a unique application for users and added navigation tabs
 4. Custom Fields: Specified the fields required for stock status and order tracking
 5. Automation: Process Builder logic, validation rules, and implemented flows
+
 6.Apex & Batch Class: For backend automation, Apex triggers and Batch Apex were utilized.
+ 
  For thorough screenshots of every stage of development, browse the repository.
