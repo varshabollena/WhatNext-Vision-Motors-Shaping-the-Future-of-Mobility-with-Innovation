@@ -9,4 +9,4 @@ Project Steps  Covered:
 4. Custom Fields: Specified the fields required for stock status and order tracking
 5. Automation: Process Builder logic, validation rules, and implemented flows
 6.Apex & Batch Class: For backend automation, Apex triggers and Batch Apex were utilized.
-For thorough screenshots of every stage of development, browse the repository.
+ For thorough screenshots of every stage of development, browse the repository.
